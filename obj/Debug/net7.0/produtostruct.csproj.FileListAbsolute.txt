@@ -1,0 +1,15 @@
+C:\Users\diogo\Desktop\produtostruct\obj\Debug\net7.0\produtostruct.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\produtostruct\obj\Debug\net7.0\produtostruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Desktop\produtostruct\obj\Debug\net7.0\produtostruct.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\produtostruct\obj\Debug\net7.0\produtostruct.AssemblyInfo.cs
+C:\Users\diogo\Desktop\produtostruct\obj\Debug\net7.0\produtostruct.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\produtostruct\bin\Debug\net7.0\produtostruct.exe
+C:\Users\diogo\Desktop\produtostruct\bin\Debug\net7.0\produtostruct.deps.json
+C:\Users\diogo\Desktop\produtostruct\bin\Debug\net7.0\produtostruct.runtimeconfig.json
+C:\Users\diogo\Desktop\produtostruct\bin\Debug\net7.0\produtostruct.dll
+C:\Users\diogo\Desktop\produtostruct\bin\Debug\net7.0\produtostruct.pdb
+C:\Users\diogo\Desktop\produtostruct\obj\Debug\net7.0\produtostruct.dll
+C:\Users\diogo\Desktop\produtostruct\obj\Debug\net7.0\refint\produtostruct.dll
+C:\Users\diogo\Desktop\produtostruct\obj\Debug\net7.0\produtostruct.pdb
+C:\Users\diogo\Desktop\produtostruct\obj\Debug\net7.0\produtostruct.genruntimeconfig.cache
+C:\Users\diogo\Desktop\produtostruct\obj\Debug\net7.0\ref\produtostruct.dll
